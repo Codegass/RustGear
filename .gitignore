@@ -11,3 +11,5 @@ Cargo.lock
 hello_world/main
 .DS_Store
 hello_world/target
+hello_world/target/rls/.rustc_info.json
+hello_world/target/.rustc_info.json
